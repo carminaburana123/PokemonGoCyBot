@@ -11,7 +11,7 @@
 </figure>
 </center>
 
-# Pokemon Go Android [PoGA]
+# Pokemon Go CyBot [PoGCy]
 The Pokemon Go Android is a project that is supposed to be completely open source. Using different other sources we try to use the best of multiple worlds (programs) to compose a bot that allows us to train and catch pokemons, defeat and build up gyms all while we are asleep.  
 While going to parties this bot will restock your supply of pokeballs en potions. 
 
